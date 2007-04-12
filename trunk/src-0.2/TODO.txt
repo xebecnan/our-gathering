@@ -1,5 +1,0 @@
-
-- collect card into graveyard
-  just like library
-
-- temp area 1 & 2
