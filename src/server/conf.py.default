@@ -1,0 +1,16 @@
+#! /usr/bin/env python
+##	conf.py
+
+app_conf = {
+        'port':10021,
+        'bufsize':1024,
+        'db_encode':'gb2312'
+        }
+
+conf = {
+        'host':'xxx.xxx.xxx.xxx',
+        'user':'user_name',
+        'passwd':'password',
+        'db':'database_name'
+        }
+
