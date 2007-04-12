@@ -1,0 +1,6 @@
+2007-04-08 04:00 Sheng Lunan
+	* /src/server : basic management for rooms and players.
+		auth, decklist and deckcards method.
+
+2007-04-08 01:05 Sheng Lunan
+	* /: initialize the project
